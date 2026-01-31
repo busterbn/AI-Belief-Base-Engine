@@ -1,5 +1,5 @@
 
-# Belief Base Engine — Propositional Logic & AGM Theory
+# Belief Revision Engine — Propositional Logic & AGM Theory
 
 In this project i build a belief revision engine that supports expansion, contraction, and revision of propositional logic formulas based on AGM theory. It simulates how humans manage beliefs using ranked priorities and models logical inference using CNF transformation and resolution.
 
